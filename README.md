@@ -1,2 +1,0 @@
-# ArList
-ArrayList emulation
